@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.4](https://github.com/ng-select/ng-select/compare/v3.0.3...v3.0.4) (2019-07-17)
+
+
+
 ### [3.0.3](https://github.com/ng-select/ng-select/compare/v3.0.2...v3.0.3) (2019-07-15)
 
 
