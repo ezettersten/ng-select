@@ -1,8 +1,8 @@
 {
-  "name": "@pezetter/ng-select",
-  "version": "3.0.14",
+  "name": "ca-select",
+  "version": "3.0.15",
   "description": "Angular ng-select - All in One UI Select, Multiselect and Autocomplete",
-  "author": "@pezetter/ng-select",
+  "author": "ezettersten",
   "license": "MIT",
   "repository": "ezettersten/ng-select",
   "engines": {
