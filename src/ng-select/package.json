@@ -1,10 +1,10 @@
 {
-  "name": "@ezettersten/ca-select",
-  "version": "3.0.10",
+  "name": "ca-select",
+  "version": "3.0.11",
   "description": "Angular ca-select - All in One UI Select, Multiselect and Autocomplete",
-  "author": "ezettersten/ca-select",
+  "author": "ezettersten",
   "license": "MIT",
-  "repository": "ezettersten/ng-select",
+  "repository": "ezettersten",
   "engines": {
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
